@@ -1,1 +1,1 @@
-javascript first homework
+GoIT javascript first homework
